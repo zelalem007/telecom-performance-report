@@ -32,7 +32,7 @@ The Power BI dashboard highlights:
 - Identify high-risk customer segments  
 - Understand service usage patterns and how they relate to churn  
 - Build an interactive dashboard with intuitive UX  
-- Demonstrate Power BI skills for portfolio showcase  
+- Demonstrate Advanced-level Power BI skills for portfolio
 
 ---
 
@@ -60,10 +60,11 @@ A clean recommended structure for the repository:
 │   └── methodology.md
 │
 ├── 📁 scripts
-│   ├
+│   ├── data_cleaning.py (optional)
+│   └── analysis_notebook.ipynb (optional)
+│
+└── README.md
 ```
-
-You can adjust depending on what files you have
 
 ---
 
@@ -73,7 +74,7 @@ You can adjust depending on what files you have
 - DAX Measures
 - Power Query (M)
 - Excel (initial exploration)
-- Optional: Python for cleaning
+- Python for cleaning
 
 ---
 
@@ -96,24 +97,15 @@ You can adjust depending on what files you have
 
 ---
 
-## 🧩 **Possible Future Enhancements**
-
-- Add predictive churn modeling using Python  
-- Incorporate RFM analysis  
-- Integrate Power BI deployment pipelines  
-- Connect to a SQL database for dynamic refresh  
-- Build a forecasting page
-
 ---
 
 ## 📬 **Contact**
 
 **David Ankrah**  
-Data Analyst  
-Open to collaborations and Data projects  
-LinkedIn: *Add your link here*  
-Email: *dnaankrah109@gmai.com*
+Aspiring Data Analyst  
+Open to collaborations and data projects  
+LinkedIn: **  
+Email: *dnaankrah109@gmail.com*
 
 ---
-
 
