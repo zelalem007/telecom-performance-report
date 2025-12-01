@@ -1,4 +1,4 @@
-# Databel Telecommunications Customer Insights Dashboard
+# Customer Insights Dashboard - Telco.
 
 This project presents a comprehensive Power BI dashboard analyzing customer behavior, churn trends, service usage, and demographics for a fictional telecom provider, **Databel Telecommunications**.  
 The report provides high-level KPIs, interactive visuals, and drill-down insights designed to support data-driven decision-making across customer retention, product performance, and service operations.
