@@ -75,6 +75,7 @@ A clean recommended structure for the repository:
 - Power Query (M)
 - Excel (initial exploration)
 - Python for cleaning
+- MySQL
 
 ---
 
