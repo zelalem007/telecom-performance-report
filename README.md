@@ -101,8 +101,8 @@ A clean recommended structure for the repository:
 
 ## 📬 **Contact**
 
-**David Ankrah**  
-Aspiring Data Analyst  
+**David N.A Ankrah**  
+Data Analyst  
 Open to collaborations and data projects  
 LinkedIn: **  
 Email: *dnaankrah109@gmail.com*
