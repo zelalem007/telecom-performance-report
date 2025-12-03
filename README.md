@@ -17,22 +17,22 @@ The Power BI dashboard highlights:
 - **Payment Methods Count:** 4  
 
 ### **Visuals Included**
-- Table of customers by U.S. state with churn status  
-- Card KPIs showing totals at a glance  
-- Histogram relating data usage to customer service calls  
-- Demographic distribution across customer segments  
-- Pie chart comparing total vs. churned customers by demographic category  
-- Slicers for filtering by state and demographic groups
+- Table of customers by U.S. state with churn status.
+- Card KPIs showing totals at a glance. 
+- Histogram relating data usage to customer service calls.  
+- Demographic distribution across customer segments.
+- Pie chart comparing total vs. churned customers by demographic category.  
+- Slicers for filtering by state and demographic groups.
 
 ---
 
 ## 🧠 **Objectives of this Project**
 
-- Analyze churn behavior across states and demographics  
-- Identify high-risk customer segments  
-- Understand service usage patterns and how they relate to churn  
-- Build an interactive dashboard with intuitive UX  
-- Demonstrate Advanced-level Power BI skills for portfolio
+- Analyze churn behavior across states and demographics. 
+- Identify high-risk customer segments.
+- Understand service usage patterns and how they relate to churn.  
+- Build an interactive dashboard with intuitive UX.
+- Demonstrate Advanced-level Power BI skills for portfolio.
 
 ---
 
