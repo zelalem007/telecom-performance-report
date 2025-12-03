@@ -1,6 +1,6 @@
 # 📊 **Databel Telecommunications – Customer Churn & Usage Dashboard**
 
-![Dashboard Preview](your-screenshot-here.png)
+![Dashboard Preview](https://ibb.co/6cjKQ1Jx)
 
 ---
 
