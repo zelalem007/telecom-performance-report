@@ -114,41 +114,32 @@ States with a high share of **Unlimited Plan** users show **lower churn**, point
 ---
 
 ## 📈 **Visualization of Analysis**
+### Pivot Tables
+[To view Tables, Click here!] 
 
-### 📊 1. **KPI Cards**
-Shows the key business metrics:
-- Total Customers  
-- Churned Customers  
-- Avg GB Download  
-- Customer Service Calls  
-- Payment Methods  
 
-### 📋 2. **State-Level Table**
-Includes:
-- State name  
-- Total customers  
-- Churned customers  
-- Unlimited plan indicator  
-Works as a filter for the dashboard.
+### Power BI Dashboard
+[To view Dashboard, Click here!] 
+https://ibb.co/6cjKQ1Jx
 
-### 🔵 3. **Scatter Chart**
-Plots:
-- Avg Customer Service Calls  
-- Avg Monthly GB Download  
-Reveals clusters of high-risk customers.
 
-### 🥧 4. **Demographics Pie Chart**
-Shows distribution of:
-- Total customers  
-- Churned customers  
-Across demographic segments.
+### Chart Analysis
+[To view Pivot Charts, Click here!]
 
-### 🎛️ 5. **Interactive Slicers**
-- State  
-- Demographic group  
-- Unlimited plan  
 
----
+### Python Analysis 
+[To view Python Scripts, Click here!]
+
+
+### MYSQL Querries
+[To view MYSQL Querries, Click here!]
+
+
+
+###  Analysis
+[To view , Click here!]
+
+
 
 ## 🧾 **Conclusion**
 
