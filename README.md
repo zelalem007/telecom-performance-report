@@ -1,20 +1,20 @@
-# 📊 **Databel Telecommunications – Customer Churn & Usage Dashboard**
+# **Databel Telecommunications – Customer Churn & Usage Dashboard**
 
 [Dashboard Preview](https://ibb.co/6cjKQ1Jx)
 
 ---
 
-## 🧩 **Content**
-- 📄 Report Overview  
-- 🛠️ Tools Used  
-- 🏷️ Data Labels (KPIs)  
-- 🔍 Key Insights  
-- 📈 Visualization of Analysis  
-- 🧾 Conclusion  
+##  **Content**
+- Report Overview  
+- Tools Used  
+- Data Labels (KPIs)  
+- Key Insights  
+- Visualization of Analysis  
+- Conclusion  
 
 ---
 
-## 📄 **Report Overview**
+##  **Report Overview**
 
 This project provides an end-to-end analysis of **Databel Telecommunications’ customer churn**, usage behavior, demographic patterns, and service experience.  
 
@@ -32,27 +32,27 @@ It supports **data-driven decision-making** on churn reduction and customer expe
 
 ---
 
-## 🛠️ **Tools Used**
+##  **Tools Used**
 
 | Tool | Purpose |
 |------|---------|
-| 🟩 **Excel** | Data cleaning, formatting, validation |
-| 🟦 **MySQL** | Querying, joins, aggregations, exporting clean datasets |
-| 🟧 **Python (Jupyter Notebook)** | EDA, statistical summaries, preprocessing, outlier detection |
-| 🟨 **Power BI** | Data modeling, interactive dashboard, DAX calculations |
+|  **Excel** | Data cleaning, formatting, validation |
+|  **MySQL** | Querying, joins, aggregations, exporting clean datasets |
+|  **Python (Jupyter Notebook)** | EDA, statistical summaries, preprocessing, outlier detection |
+|  **Power BI** | Data modeling, interactive dashboard, DAX calculations |
 
 ---
 
-## 🏷️ **Data Labels (KPIs)**
+##  **Data Labels (KPIs)**
 
-### 🔢 **Top Metrics**
+###  **Top Metrics**
 | KPI | Value |
 |-----|--------|
-| 👥 **Total Customers** | **6,687** |
-| ❌ **Churned Customers** | **1,796** |
-| 📶 **Total Avg Monthly GB Download** | **45K+** |
-| ☎️ **Total Customer Service Calls** | **6.10K** |
-| 💳 **Payment Methods Available** | **4** |
+|  **Total Customers** | **6,687** |
+|  **Churned Customers** | **1,796** |
+|  **Total Avg Monthly GB Download** | **45K+** |
+|  **Total Customer Service Calls** | **6.10K** |
+|  **Payment Methods Available** | **4** |
 
 ### Additional Data Columns
 - State  
@@ -65,7 +65,7 @@ It supports **data-driven decision-making** on churn reduction and customer expe
 
 ## 🔍 **Key Insights**
 
-### 🔥 **1. Customer Churn Overview**
+###  **1. Customer Churn Overview**
 - **1,796 churned customers** out of **6,687** → **~27% churn rate**  
 - Indicates significant retention concerns requiring focused strategy.
 
@@ -77,14 +77,14 @@ It supports **data-driven decision-making** on churn reduction and customer expe
 
 ---
 
-### ☎️ **3. Customer Service Call Patterns**
+###  **3. Customer Service Call Patterns**
 - Total of **6,100+** service calls.  
 - High service call frequency strongly correlates with churn.  
 - Indicates possible service quality or onboarding issues.
 
 ---
 
-### 🗺️ **4. Geographic Performance**
+###  **4. Geographic Performance**
 States such as **WV, OH, AL, MT, MD, NY, and SC** show:
 - High customer counts  
 - Noticeable churn levels  
@@ -93,27 +93,27 @@ States with a high share of **Unlimited Plan** users show **lower churn**, point
 
 ---
 
-### 💳 **5. Payment Methods**
+###  **5. Payment Methods**
 - Only **4 available payment methods**.  
 - Limited payment flexibility may contribute to customer frustration or churn.
 
 ---
 
-### 👤 **6. Demographic Patterns**
+###  **6. Demographic Patterns**
 - **Under 30** group contributes most to churn.  
 - **Senior** customers show the highest loyalty.  
 - “Others” group forms the majority of total customers.
 
 ---
 
-### 🔄 **7. Usage vs Account Length vs Complaints**
+###  **7. Usage vs Account Length vs Complaints**
 - Long-tenure customers make **fewer service calls** → Higher satisfaction.  
 - Newer customers (shorter account age) make **more complaints** → Onboarding challenges.  
 - Heavy data users tend to remain loyal → They perceive more value.
 
 ---
 
-## 📈 **Visualization of Analysis**
+##  **Visualization of Analysis**
 ### Pivot Tables
 [To view Tables, Click here!] 
 
@@ -141,7 +141,7 @@ https://ibb.co/6cjKQ1Jx
 
 
 
-## 🧾 **Conclusion**
+##  **Conclusion**
 
 The Databel Telecommunications Churn Dashboard provides a clear overview of:
 - Customer retention patterns  
@@ -154,4 +154,4 @@ By using **Excel, MySQL, Python, and Power BI**, this project demonstrates a com
 
 ---
 
-✨ *More screenshots and code snippets will be added as the repository grows.*  
+ *More screenshots and code snippets will be added as the repository grows.*  
